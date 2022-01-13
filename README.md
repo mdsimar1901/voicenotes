@@ -5,3 +5,4 @@ It is created within a virtual environment
 cd venv\Scripts\Activate.bat to activate the virtual environment
 
 
+will add screenshots of the working app.
